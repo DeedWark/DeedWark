@@ -3,8 +3,6 @@
 <!--
 **DeedWark/DeedWark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey I'm Kenji. Student in Sys & Network admin and in some time in Cybersecurity.
+
+- ⚡ Favourite programming languages: Python / Golang
+- 🔭 Favourite scripting languages: Bash, Shell / Python / Golang / Ruby
+- 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++ / C
+
+My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
