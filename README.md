@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Hey I'm Kenji. Student in Sys & Network admin and in some time in Cybersecurity.
+## Hey I'm Kenji. Student in Sys & Network admin and soon in Cybersecurity.
 
 - ⚡ Favourite programming languages: Python / Golang
 - 🔭 Favourite scripting languages: Bash, Shell / Python / Golang / Ruby
