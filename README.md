@@ -15,6 +15,6 @@
 
 - ⚡ Favourite programming languages: Python / Golang
 - 🔭 Favourite scripting languages: Bash, Shell / Python / Golang / Ruby
-- 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++ / C
+- 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++
 
 My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
