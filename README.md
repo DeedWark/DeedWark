@@ -19,4 +19,4 @@
 
 My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeedWark&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeedWark&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
