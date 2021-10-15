@@ -18,3 +18,5 @@
 - 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++
 
 My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeedWark)](https://github.com/anuraghazra/github-readme-stats)
