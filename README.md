@@ -11,12 +11,17 @@
 - ⚡ Fun fact: ...
 -->
 
-## Hey. Previously student in Sys & Network admin and now in Security (OPSEC).
+## Hey. Student in IT Security (OPSEC) and SRE.
 
+Languages:
 - ⚡ Favourite programming languages: Python / Golang
 - 🔭 Favourite scripting languages: Bash, Shell / Python / Golang / Ruby
 - 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++
 
+Degrees:
+- BTS SIO SISR (Infrastructure, Systems & Network, French degree "2 years after graduation")
+- School Degree in System and Network administration (French degree "4 years after graduation")
+- School Degree in Cybersecurity (French degree "5 years after graduation")
 My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeedWark&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
