@@ -16,7 +16,7 @@
 Languages:
 - ⚡ Favourite programming languages: Python / Golang
 - 🔭 Favourite scripting languages: Bash, Shell / Python / Golang / Ruby
-- 🌱 I'm currently learning: Python / Golang / Ruby / Rust / C++
+- 🌱 I'm currently learning: Python / Golang / Rust / C/C++
 
 Degrees:
 - BTS SIO SISR (Infrastructure, Systems & Network, French degree "2 years after graduation")
