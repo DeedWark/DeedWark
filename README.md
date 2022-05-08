@@ -20,8 +20,8 @@ Languages:
 
 Degrees:
 - BTS SIO SISR (Infrastructure, Systems & Network, French degree "2 years after graduation")
-- School Degree in System and Network administration (French degree "4 years after graduation")
-- School Degree in Cybersecurity (French degree "5 years after graduation") [IN PROGRESS]
+- Bachelor Degree in System and Network administration (French degree "4 years after graduation")
+- Master Degree in Cybersecurity (French degree "5 years after graduation") [IN PROGRESS]
 
 My [LinkedIn](https://www.linkedin.com/in/kenji-duriez-9b93bb141) 
 
