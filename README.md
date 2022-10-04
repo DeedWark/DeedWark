@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DeedWark</h1>
-<h3 align="center">Student in IT Security (OPSEC) and Site Reliabilty Engineer.</h3>
+<h3 align="center">Student in IT Security (OPSEC) and Site Reliability Engineer.</h3>
 <br>
 
 - ⚡ Favourite programming languages: **Python / Golang**
