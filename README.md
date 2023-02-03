@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm DeedWark</h1>
-<h3 align="center">Student in IT Security (OPSEC) and Site Reliability Engineer.</h3>
+<h3 align="center">IT Security Engineer (OPSEC) and Site Reliability Engineer.</h3>
 
 
 - ⚡ Favourite programming languages: **Python / Golang**
 
-- 🔭 Favourite scripting languages: **Bash, Shell / Python / Golang / Ruby**
+- 🔭 Favourite scripting languages: **Bash, Shell / Python / Golang**
 
 - 🌱 I'm currently learning: **Python / Golang / Rust / C / C++**
 
@@ -13,7 +13,12 @@
 
 - BTS SIO SISR (Infrastructure, Systems & Network, French degree "2 years after graduation")
 - Bachelor Degree in System and Network administration (French degree "4 years after graduation")
-- Master Degree in Cybersecurity (French degree "5 years after graduation") [IN PROGRESS]
+- Master Degree in Cybersecurity (French degree "5 years after graduation")
+
+<h3 align="left">Current job:</h3>
+
+- Site Reliability Engineer in Security Squad (OPSEC)
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
