@@ -17,7 +17,7 @@
 
 <h3 align="left">Current job:</h3>
 
-- Site Reliability Engineer in Security Squad (OPSEC)
+- Operational Security Engineer in Site Reliability Team (OPSEC)
 
 
 <!-- <h3 align="left">Connect with me:</h3>
